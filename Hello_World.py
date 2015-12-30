@@ -1,0 +1,7 @@
+print ("--------------------------")
+print ("  Hello World in Python!  ")
+print ("--------------------------")
+print("")
+print ("Hello, World!")
+pause()
+exit()
